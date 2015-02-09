@@ -1,0 +1,31 @@
+{
+  "name": "timecomponent",
+  "version": "1.0.0",
+  "description": "FRP component of timeline",
+  "main": "timecomponent.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sakurafunctional/timecomponent"
+  },
+  "keywords": [
+    "FRP",
+    "component",
+    "timeline",
+    "Functional"
+  ],
+  "author": "sakurafunctional",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sakurafunctional/timecomponent/issues"
+  },
+  "homepage": "https://github.com/sakurafunctional/timecomponent",
+  "dependencies": {
+    "lodash": "",
+    "moment": "",
+    "watchjs": ""
+  },
+  "devDependencies": {}
+}
